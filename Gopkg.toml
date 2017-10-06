@@ -1,3 +1,5 @@
+[metadata.heroku]
+  "root-package" = "github.com/freeformz/ppt"
 
 # Gopkg.toml example
 #
